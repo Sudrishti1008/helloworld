@@ -12,6 +12,9 @@ const Navbar = () => {
         <li>
           <Link to="/game">Play Game</Link>
         </li>
+        <li>
+          <Link to="/contact">Contact Us</Link>
+        </li>
       </ul>
     </nav>
   );
